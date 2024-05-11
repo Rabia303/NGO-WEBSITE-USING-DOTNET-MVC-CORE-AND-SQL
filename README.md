@@ -266,6 +266,9 @@ A: If you have a feature request or idea for improving Give-AID, please open a n
   <img src="web3.PNG" width="400" alt="User Module">
   <img src="web4.PNG" width="400" alt="User Module">
 </p>
+<p align="center">
+  <img src="web5.PNG" width="400" alt="Admin Dashboard">
+</p>
 
 ### Admin Dashboard
 <p align="center">
@@ -273,9 +276,7 @@ A: If you have a feature request or idea for improving Give-AID, please open a n
   <img src="add5.PNG" width="400" alt="Admin Dashboard">
 </p>
 <p align="center">
-  <img src="add4.PNG" width="400" alt="Admin Dashboard">
-  <img src="add3.PNG" width="400" alt="Admin Dashboard">
-</p>
-<p align="center">
   <img src="add2.PNG" width="400" alt="Admin Dashboard">
+  <img src="add6.PNG" width="400" alt="Admin Dashboard">
 </p>
+
