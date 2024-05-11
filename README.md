@@ -259,23 +259,23 @@ A: If you have a feature request or idea for improving Give-AID, please open a n
 
 ### User Module
 <p align="center">
-  <img src="web1.png" width="400" alt="User Module">
-  <img src="web2.png" width="400" alt="User Module">
+  <img src="web1.PNG" width="400" alt="User Module">
+  <img src="web2.PNG" width="400" alt="User Module">
 </p>
 <p align="center">
-  <img src="web3.png" width="400" alt="User Module">
-  <img src="web4.png" width="400" alt="User Module">
+  <img src="web3.PNG" width="400" alt="User Module">
+  <img src="web4.PNG" width="400" alt="User Module">
 </p>
 
 ### Admin Dashboard
 <p align="center">
-  <img src="add1.png" width="400" alt="Admin Dashboard">
-  <img src="add5.png" width="400" alt="Admin Dashboard">
+  <img src="add1.PNG" width="400" alt="Admin Dashboard">
+  <img src="add5.PNG" width="400" alt="Admin Dashboard">
 </p>
 <p align="center">
-  <img src="add4.png" width="400" alt="Admin Dashboard">
-  <img src="add3.png" width="400" alt="Admin Dashboard">
+  <img src="add4.PNG" width="400" alt="Admin Dashboard">
+  <img src="add3.PNG" width="400" alt="Admin Dashboard">
 </p>
 <p align="center">
-  <img src="add2.png" width="400" alt="Admin Dashboard">
+  <img src="add2.PNG" width="400" alt="Admin Dashboard">
 </p>
