@@ -1,0 +1,55 @@
+﻿@model IEnumerable<about_os>
+@{
+    // ViewData["Title"] = "Admin_OtherPartners";
+    Layout = "~/Views/Shared/admin_layout.cshtml";
+}
+
+
+<section class="ls section_padding_top_50 section_padding_bottom_50 columns_padding_10">
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-md-12">
+                <h3>
+                    Other Partners
+
+                </h3>
+            </div>
+            <!-- .col-* -->
+        </div>
+        <!-- .row -->
+
+        <table class="table">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Supporter 1</th>
+                    <th scope="col">Supporter 2</th>
+                    <th scope="col">Supporter 3</th>
+                    <th scope="col">Supporter 4</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var i in Model)
+                {
+                    <tr>
+                        <td>@i.osID</td>
+                        <td><img src="~/@i.osimg1" /></td>
+                        <td><img src="~/@i.osimg1" /></td>
+                        <td><img src="~/@i.osimg3" /></td>
+                        <td><img src="~/@i.osimg4" /></td>
+                        
+                       
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+
+
+
+        <!-- .row -->
+        <!-- .row main columns -->
+    </div>
+    <!-- .container -->
+</section>

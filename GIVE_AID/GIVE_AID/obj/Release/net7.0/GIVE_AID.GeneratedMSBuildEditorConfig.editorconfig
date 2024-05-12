@@ -1,0 +1,223 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GIVE_AID
+build_property.RootNamespace = GIVE_AID
+build_property.ProjectDir = C:\Users\hp\Downloads\FINAL_GIVE_AID\GIVE_AID\GIVE_AID\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\hp\Downloads\FINAL_GIVE_AID\GIVE_AID\GIVE_AID
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/About_Insert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWJvdXRfSW5zZXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/Admin_ContactList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5fQ29udGFjdExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/Admin_DetailsofNGO.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5fRGV0YWlsc29mTkdPLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/Admin_Donateus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5fRG9uYXRldXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/Admin_DonationList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5fRG9uYXRpb25MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/Admin_Gallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5fR2FsbGVyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/Admin_HelpCentre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5fSGVscENlbnRyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/Admin_Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5fTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/Admin_OtherPartners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5fT3RoZXJQYXJ0bmVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/Admin_OurProgrames.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5fT3VyUHJvZ3JhbWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/admin_register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYWRtaW5fcmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/Admin_RegisterdMembers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5fUmVnaXN0ZXJkTWVtYmVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/CausesManagement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2F1c2VzTWFuYWdlbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/cause_list.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cY2F1c2VfbGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/editgallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZWRpdGdhbGxlcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/editmission.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZWRpdG1pc3Npb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/editwwd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZWRpdHd3ZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/edit_helpcenter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZWRpdF9oZWxwY2VudGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/edit_programmes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZWRpdF9wcm9ncmFtbWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/edit_team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZWRpdF90ZWFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/fetchgallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZmV0Y2hnYWxsZXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/fetchmission.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZmV0Y2htaXNzaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/fetchprogrammes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZmV0Y2hwcm9ncmFtbWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/fetchwwd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZmV0Y2h3d2QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/fetch_help.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZmV0Y2hfaGVscC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/fetch_team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZmV0Y2hfdGVhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/listofngo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cbGlzdG9mbmdvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/Ourmission.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cT3VybWlzc2lvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/OurSupporters.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cT3VyU3VwcG9ydGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdGVhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Admin/whatwedo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cd2hhdHdlZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Home/Careers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJlZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Home/Donate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEb25hdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Home/donationthanks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxkb25hdGlvbnRoYW5rcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Home/Gallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHYWxsZXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Home/Help_Center.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIZWxwX0NlbnRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Home/Our_Programes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPdXJfUHJvZ3JhbWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Home/Partners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYXJ0bmVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Home/register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxyZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Home/Teams.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZWFtcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Shared/admin_layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGFkbWluX2xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Downloads/FINAL_GIVE_AID/GIVE_AID/GIVE_AID/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-btlibad6nt

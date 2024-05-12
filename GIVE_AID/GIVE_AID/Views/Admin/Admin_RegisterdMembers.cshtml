@@ -1,0 +1,84 @@
+﻿@model IEnumerable<UserReg>
+@{
+    // ViewData["Title"] = "Admin_RegisterdMembers";
+    Layout = "~/Views/Shared/admin_layout.cshtml";
+}
+
+<section class="ls section_padding_top_50 section_padding_bottom_50 columns_padding_10">
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-md-12">
+                <h3>Users</h3>
+            </div>
+            <!-- .col-* -->
+        </div>
+        <!-- .row -->
+
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="with_border with_padding">
+
+                    <!-- <div class="row admin-table-filters">
+                        <div class="col-lg-9">
+                            Filter options can be added here if needed
+                        </div>
+                    </div> -->
+
+                    <div class="table-responsive">
+                        <table class="table table-striped table-bordered">
+                            <thead>
+                                <tr>
+                                    <th>Name</th>
+                                    <th>Email</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var i in Model)
+                                {
+                                    <tr class="item-editable">
+                                        <td>@i.UserName</td>
+                                        <td>@i.UserEmail</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- .row main columns -->
+    </div>
+    <!-- .container -->
+</section>
+
+<style>
+    /* Apply styles to the table */
+    .table {
+        background-color: #ffffff; /* White background */
+    }
+
+        .table th,
+        .table td {
+            padding: 12px; /* Add padding for better spacing */
+        }
+
+        .table th {
+            background-color: #f5f5f5; /* Light gray background for table header */
+            border-bottom: 2px solid #e0e0e0; /* Border bottom for header */
+            font-weight: bold; /* Bold header text */
+            text-align: left; /* Align text to the left in headers */
+        }
+
+    .table-striped tbody tr:nth-of-type(odd) {
+        background-color: #f9f9f9; /* Alternate row background color */
+    }
+
+    .table-striped tbody tr:nth-of-type(even) {
+        background-color: #ffffff; /* Even row background color */
+    }
+
+    .item-editable td {
+        vertical-align: middle; /* Align content vertically center */
+    }
+</style>

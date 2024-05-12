@@ -1,0 +1,245 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+<!-- Mirrored from html.modernwebtemplates.com/giving/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 04 Mar 2024 13:24:06 GMT -->
+<head>
+	<title>Giving</title>
+	<meta charset="utf-8">
+	<!--[if IE]>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<![endif]-->
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+	<link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="~/assets/css/animations.css">
+	<link rel="stylesheet" href="~/assets/css/fonts.css">
+	<link rel="stylesheet" href="~/assets/css/main.css" class="color-switcher-link">
+	<script src="~/assets/js/vendor/modernizr-2.6.2.min.js"></script>
+
+	<!--[if lt IE 9]>
+		<script src="~/assets/js/vendor/html5shiv.min.js"></script>
+		<script src="~/assets/js/vendor/respond.min.js"></script>
+		<script src="~/assets/js/vendor/jquery-1.12.4.min.js"></script>
+	<![endif]-->
+
+</head>
+
+<body>
+	<!--[if lt IE 9]>
+		<div class="bg-danger text-center">You are using an <strong>outdated</strong> browser. Please <a href="~/assets/http://browsehappy.com/" class="highlight">upgrade your browser</a> to improve your experience.</div>
+	<![endif]-->
+
+	<div class="preloader">
+		<div class="preloader_image"></div>
+	</div>
+
+	<!-- search modal -->
+	<div class="modal" tabindex="-1" role="dialog" aria-labelledby="search_modal" id="search_modal">
+		<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+			<span aria-hidden="true">
+				<i class="rt-icon2-cross2"></i>
+			</span>
+		</button>
+	
+	</div>
+
+	<!-- Unyson messages modal -->
+	<div class="modal fade" tabindex="-1" role="dialog" id="messages_modal">
+		<div class="fw-messages-wrap ls with_padding">
+			<!-- Uncomment this UL with LI to show messages in modal popup to your user: -->
+			<!--
+			<ul class="list-unstyled">
+				<li>Message To User</li>
+			</ul>
+			-->
+
+		</div>
+	</div>
+	<!-- eof .modal -->
+	<!-- wrappers for visual page editor and boxed version of template -->
+	<div id="canvas">
+		<div id="box_wrapper">
+
+			<!-- template sections -->
+
+			<section class="page_topline ls table_section table_section_md columns_padding_0 section_padding_25">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-3 text-center text-md-left">
+							<div class="page_social_icons darklinks">
+								<a class="social-icon soc-facebook" href="~/assets/#" title="Facebook"></a>
+								<a class="social-icon soc-twitter" href="~/assets/#" title="Twitter"></a>
+								<a class="social-icon soc-google" href="~/assets/#" title="Google"></a>
+								<a class="social-icon soc-linkedin" href="~/assets/#" title="LinkedIn"></a>
+								<a class="social-icon soc-flickr" href="~/assets/#" title="Flickr"></a>
+								<a class="social-icon soc-rss" href="~/assets/#" title="Rss"></a>
+							</div>
+						</div>
+
+						<div class="col-md-9 text-center text-md-right">
+
+							<div class="content-spacing">
+
+								<div class="media small-teaser text-left">
+								
+								</div>
+
+								<div class="media small-teaser text-left">
+									<div class="media-left media-middle">
+										<div class="teaser_icon size_normal">
+											<i class="fa fa-phone-square" aria-hidden="true"></i>
+										</div>
+									</div>
+									<div class="media-body media-middle">
+										<p class="fontsize_20">
+											800 516 3290
+										</p>
+										<p class="fontsize_12">
+											9:00 A.M. - 5:00 P.M.
+										</p>
+									</div>
+								</div>
+
+								<a asp-action="donate" asp-controller="home" class="theme_button color1 wide_button">Donate</a>
+
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<header class="page_header header_darkgrey header_transparent table_section columns_padding_0 section_padding_15 toggler_right">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-3">
+							<a asp-action="index" asp-controller="home" class="logo">
+								<img src="~/assets/images/AID-DARK.png" alt="" />
+							</a>
+							<!-- header toggler -->
+							<span class="toggle_menu">
+								<span></span>
+							</span>
+						</div>
+						<div class="col-md-9 text-right">
+							<!-- main nav start -->
+							<nav class="mainmenu_wrapper">
+								<ul class="mainmenu nav sf-menu">
+									<li>
+										<a  asp-action="index" asp-controller="Home">Home</a>
+
+									</li>
+									<li>
+										<a  asp-action="Donate" asp-controller="Home">Donate</a>
+									</li>
+
+									<li>
+										<a asp-action="Help_Center" asp-controller="Home">Help Center</a>
+
+									</li>
+
+									<li>
+										<a  asp-action="About" asp-controller="Home">About us</a>
+
+									</li>
+									<li>
+										<a  asp-action="Partners" asp-controller="Home">Our Partners</a>
+
+									</li>
+
+
+
+									<li>
+										<a  asp-action="home" asp-controller="Home">Pages</a>
+										<ul>
+
+											<li>
+												<a asp-action="Partners" asp-controller="Home">Team</a>
+
+											</li>
+
+											<li>
+												<a asp-action="Careers" asp-controller="Home">Careers</a>
+											</li>
+
+											<li>
+												<a asp-action="Gallery" asp-controller="Home">Gallery</a>
+											</li>
+
+										</ul>
+
+										<!-- contacts -->
+									<li>
+										<a asp-action="Contact" asp-controller="Home">Contact</a>
+
+									</li>
+									<!-- eof contacts -->
+
+
+								</ul>
+							</nav>
+							<!-- eof main nav -->
+						</div>
+					</div>
+				</div>
+			</header>
+
+
+    
+            @RenderBody()
+
+
+			<footer class="page_footer ds ms parallax section_padding_50">
+				<div class="container">
+
+					<div class="row columns_padding_50">
+
+						<div class="col-md-4">
+							<a asp-action="index" asp-controller="home" class="logo">
+								<img src="~/assets/images/AID.png" alt="" />
+							</a>
+							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis um voluptatum deleniti atque orrupti quos </p>
+							<div class="media fontsize_18">
+								<i class="fa fa-search highlight rightpadding_5"></i>
+								address:
+								<span class="grey">12 Ave., New York</span>
+							</div>
+						
+							<div class="media fontsize_18">
+								<i class="fa fa-phone highlight rightpadding_5"></i>
+								phone:
+								<span class="grey">800 516 3290</span>
+							</div>
+							
+						</div>
+
+		
+
+					</div>
+				</div>
+			</footer>
+
+		
+
+		</div>
+		<!-- eof #box_wrapper -->
+	</div>
+	<!-- eof #canvas -->
+
+	<script data-cfasync="false" src="~/assets/../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+	<script src="~/assets/js/compressed.js"></script>
+	<script src="~/assets/js/main.js"></script>
+	<script src="~/assets/js/switcher.js"></script>
+
+</body>
+
+
+<!-- Mirrored from html.modernwebtemplates.com/giving/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 04 Mar 2024 13:25:00 GMT -->
+</html>

@@ -1,0 +1,97 @@
+﻿@model AddDonation
+@{
+    // ViewData["Title"] = "Admin_Donateus";
+    Layout = "~/Views/Shared/admin_layout.cshtml";
+}
+
+
+<section class="ls section_padding_top_50 section_padding_bottom_50 columns_padding_10">
+    <div class="container-fluid">
+        <section class="ls section_padding_top_50 section_padding_bottom_50 columns_padding_10">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h3>
+                            ADD DONATION
+                        </h3>
+                    </div>
+                </div>
+                <!-- .row -->
+
+                <div class="row justify-content-center">
+                    <!-- Center the form -->
+                    <div class="col-md-6">
+                        <!-- Basic form -->
+                        <div class="form-container">
+                            <!-- Added a container for the form -->
+                            <form method="post">
+                                <!-- Form elements go here -->
+                                <div class="form-group">
+                                    <label for="description"><h5>Category (Cause):</h5></label>
+                                    <input type="text" name="cause" class="form-control" placeholder="E.g., Children, Education, Disabled, Women, Youth, Elderly">
+                                </div>
+                                <button type="submit" class="theme_button">ADD</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                </div>
+                <!-- .row -->
+            </div>
+            <!-- .container-fluid -->
+        </section>
+    </div>
+</section>
+
+<style>
+    .form-container {
+        background-color: #f9f9f9;
+        padding: 30px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    .causes-list {
+        background-color: #f0f0f0;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    .form-container h5 {
+        margin-top: 0;
+    }
+
+    .form-control {
+        border-radius: 20px;
+        border-color: #ced4da;
+    }
+
+    .theme_button {
+        background-color: #dc3545;
+        border-color: grey;
+        border-radius: 20px;
+        color: #fff;
+        padding: 10px 20px;
+        margin-top: 20px;
+    }
+
+        .theme_button:hover {
+            background-color: gray;
+            border-color: dimgrey;
+        }
+
+    .delete-cause {
+        background-color: #dc3545;
+        border-color: #dc3545;
+        color: #fff;
+        margin-left: 10px;
+        margin-top: 5px; /* Add margin-top for space */
+    }
+
+        .delete-cause:hover {
+            background-color: #c82333;
+            border-color: #bd2130;
+        }
+</style>

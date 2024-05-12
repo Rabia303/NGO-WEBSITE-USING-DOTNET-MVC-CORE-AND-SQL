@@ -1,0 +1,95 @@
+﻿@model IEnumerable<contact> 
+@{
+    // ViewData["Title"] = "Admin_ContactList";
+    Layout = "~/Views/Shared/admin_layout.cshtml";
+}
+<section class="ls section_padding_top_50 section_padding_bottom_50 columns_padding_10">
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-md-12">
+                <h3>
+                    Contact List
+                </h3>
+            </div>
+            <!-- .col-* -->
+        </div>
+        <!-- .row -->
+
+        <style>
+            /* Apply black theme to the table */
+            .table {
+                background-color: #212529; /* Dark gray background */
+                color: #ffffff; /* White text */
+                border-radius: 10px; /* Rounded corners */
+                overflow: hidden; /* Hide overflowing content */
+                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add shadow for depth */
+            }
+
+            .thead-dark th {
+                background-color: #343a40; /* Darker shade of gray for table header */
+                color: #ffffff; /* White text */
+            }
+
+            tbody tr:nth-child(odd) {
+                background-color: #343a40; /* Darker shade of gray for odd rows */
+            }
+
+            tbody tr:nth-child(even) {
+                background-color: #212529; /* Lighter shade of gray for even rows */
+            }
+
+            tbody tr:hover {
+                background-color: #495057; /* Darker shade on hover */
+            }
+
+            /* Styling the table content */
+            .table td,
+            .table th {
+                border: none; /* Remove borders */
+                padding: 12px; /* Add some padding for better spacing */
+            }
+
+            .table th {
+                font-weight: bold; /* Bold header text */
+                text-transform: uppercase; /* Uppercase header text */
+            }
+
+            /* Purple accent */
+            .purple-text {
+                color: #8a2be2; /* Purple text color */
+            }
+
+            .purple-background {
+                background-color: #8a2be2; /* Purple background color */
+            }
+        </style>
+
+
+        <table class="table">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col" class="purple-background">ID</th>
+                    <th scope="col" class="purple-background">Name</th>
+                    <th scope="col" class="purple-background">Phone</th>
+                    <th scope="col" class="purple-background">Email</th>
+                    <th scope="col" class="purple-background">Message</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var i in Model)
+                {
+                    <tr>
+                        <td >@i.contactId</td>
+                        <td>@i.name</td>
+                        <td>@i.phone</td>
+                        <td>@i.email</td>
+                        <td>@i.message</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+    <!-- .container -->
+</section>

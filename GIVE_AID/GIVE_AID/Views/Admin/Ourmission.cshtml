@@ -1,0 +1,43 @@
+﻿@model about_om
+@{
+    ViewData["Title"] = "Ourmission";
+    Layout = "~/Views/Shared/admin_layout.cshtml";
+}
+
+<div class="row justify-content">
+    <!-- Center the form -->
+    <div class="col-xs-12 col-md-6">
+        <!-- Basic form -->
+        <div class="form-container">
+            <!-- Added a container for the form -->
+            <form method="post" enctype="multipart/form-data">
+                <!-- Form elements go here -->
+
+                <h4>
+                    <b><center>Our Mission</center></b>
+                </h4>
+                <br />
+                <div class="form-group">
+                    <label for="description"><h5>Description:</h5></label>
+                    <input type="text"
+                           asp-for="desc"
+                           class="form-control"
+                           placeholder="Enter Description" />
+                </div>
+
+                <div class="form-group">
+                    <label for="picture"><h5>Add Image:</h5></label>
+                    <input type="file"
+                           name="img"
+                           class="form-control"
+                           placeholder="Enter Picture URL" />
+
+                </div>
+                <br />
+                <button type="submit" class="theme_button">ADD</button>
+            </form>
+        </div>
+    </div>
+    <!-- .col-* -->
+</div>
+

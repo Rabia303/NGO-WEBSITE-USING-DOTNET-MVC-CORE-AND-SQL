@@ -1,0 +1,344 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/admin_layout.cshtml";
+}
+
+<style>
+    /* CSS for Dashboard Layout */
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f6f9;
+    }
+
+    .header {
+        background-color: #444;
+        color: white;
+        text-align: center;
+        padding: 20px;
+    }
+
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 20px;
+    }
+
+    .card {
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        margin: 20px;
+        width: calc(50% - 40px); /* Adjusted width for two columns */
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+        transition: background 0.5s ease;
+        border: 1px solid #ddd;
+    }
+
+        .card:hover {
+            background-color: #f4f4f4;
+        }
+
+        .card h2 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .card p {
+            color: #666;
+            line-height: 1.6;
+        }
+
+    .btn {
+        background-color: #333;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-top: 10px;
+    }
+
+        .btn:hover {
+            background-color: #555;
+        }
+
+    .icon {
+        font-size: 24px;
+        margin-right: 10px;
+    }
+
+    /* CSS for Overlay */
+    .overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+        opacity: 0;
+        transition: opacity 0.3s ease;
+    }
+
+    .card:hover .overlay {
+        opacity: 1;
+    }
+
+    .overlay-content {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        color: white;
+    }
+</style>
+
+<div class="header">
+    <h1>Welcome to NGO Admin Dashboard</h1>
+    <p>Manage various aspects of your NGO and its operations.</p>
+    <button class="btn">Logout</button> <!-- Digital-style logout button -->
+</div>
+<center>
+<div class="container">
+    <div class="card">
+        <h2>Contact List</h2>
+        <p>Manage your NGO's contact list.</p>
+            <a asp-action="Admin_ContactList" asp-controller="admin">
+        <button class="btn"><i class="icon fa fa-address-book"></i>View Contacts</button>
+        <div class="overlay">
+            <div class="overlay-content">
+                <p>Click to view</p>
+            </div>
+        </div>
+        </a>
+    </div>
+
+    <div class="card">
+        <h2>Insert Programmes</h2>
+            <a asp-action="Admin_OurProgrames" asp-controller="admin">
+        <p>Manage programmers working for your NGO.</p>
+        <button class="btn"><i class="icon fa fa-code"></i>View Programmers</button>
+        <div class="overlay">
+            <div class="overlay-content">
+                <p>Click to view</p>
+            </div>
+        </div>
+            </a>
+    </div>
+
+    <div class="card">
+        <h2>User List</h2>
+            <a asp-action="Admin_RegisterdMembers" asp-controller="admin">
+        <p>Manage users and their permissions within your NGO.</p>
+        <button class="btn"><i class="icon fa fa-users"></i>View Users</button>
+        <div class="overlay">
+            <div class="overlay-content">
+                <p>Click to view</p>
+            </div>
+        </div>
+            </a>
+    </div>
+
+    <div class="card">
+        <h2>Donator List</h2>
+            <a asp-action="Admin_DonationList" asp-controller="admin">
+        <p>Manage donors and donations for your NGO.</p>
+        <button class="btn"><i class="icon fa fa-heart"></i>View Donators</button>
+        <div class="overlay">
+            <div class="overlay-content">
+                <p>Click to view</p>
+            </div>
+        </div>
+            </a>
+    </div>
+        <div class="card">
+            <h2>Insert Team</h2>
+            <a asp-action="team" asp-controller="admin">
+                <p>Manage Teams for your NGO.</p>
+                <button class="btn"><i class="icon fa fa-heart"></i>View Team Members</button>
+                <div class="overlay">
+                    <div class="overlay-content">
+                        <p>Click to view</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="card">
+            <h2>Update Team</h2>
+            <a asp-action="fetch_team" asp-controller="admin">
+                <p>Edit Teams for your NGO.</p>
+                <button class="btn"><i class="icon fa fa-heart"></i>Edit Team Members</button>
+                <div class="overlay">
+                    <div class="overlay-content">
+                        <p>Click to view</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="card">
+            <h2>Update Programmes</h2>
+            <a asp-action="fetchprogrammes" asp-controller="admin">
+                <p>Edit Programmes for your NGO.</p>
+                <button class="btn"><i class="icon fa fa-heart"></i>Edit Programmes</button>
+                <div class="overlay">
+                    <div class="overlay-content">
+                        <p>Click to view</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="card">
+            <h2>Insert Mission</h2>
+            <a asp-action="Ourmission" asp-controller="admin">
+                <p>Edit Mission for your NGO.</p>
+                <button class="btn"><i class="icon fa fa-heart"></i>View our Mission</button>
+                <div class="overlay">
+                    <div class="overlay-content">
+                        <p>Click to view</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="card">
+            <h2>Insert What we do</h2>
+            <a asp-action="whatwedo" asp-controller="admin">
+                <p>Insert What we do for your NGO.</p>
+                <button class="btn"><i class="icon fa fa-heart"></i>Edit What we do</button>
+                <div class="overlay">
+                    <div class="overlay-content">
+                        <p>Click to view</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="card">
+            <h2>Update What we do</h2>
+            <a asp-action="fetchwwd" asp-controller="admin">
+                <p>Edit What we do for your NGO.</p>
+                <button class="btn"><i class="icon fa fa-heart"></i>Edit What we do</button>
+                <div class="overlay">
+                    <div class="overlay-content">
+                        <p>Click to view</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="card">
+            <h2>Insert Gallery</h2>
+            <a asp-action="Admin_Gallery" asp-controller="admin">
+                <p>Insert images for your NGO.</p>
+                <button class="btn"><i class="icon fa fa-heart"></i>Insert Gallery</button>
+                <div class="overlay">
+                    <div class="overlay-content">
+                        <p>Click to view</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="card">
+            <h2>Update Gallery</h2>
+            <a asp-action="fetchgallery" asp-controller="admin">
+                <p>Edit images for your NGO.</p>
+                <button class="btn"><i class="icon fa fa-heart"></i>Edit Our Gallery</button>
+                <div class="overlay">
+                    <div class="overlay-content">
+                        <p>Click to view</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="card">
+            <h2>insert Causes</h2>
+            <a asp-action="Admin_Donateus" asp-controller="admin">
+                <p>insert Causes for your NGO.</p>
+                <button class="btn"><i class="icon fa fa-heart"></i>insert Causes</button>
+                <div class="overlay">
+                    <div class="overlay-content">
+                        <p>Click to view</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="card">
+            <h2>View Causes</h2>
+            <a asp-action="CausesManagement" asp-controller="admin">
+                <p>View Causes for your NGO.</p>
+                <button class="btn"><i class="icon fa fa-heart"></i>View Causes</button>
+                <div class="overlay">
+                    <div class="overlay-content">
+                        <p>Click to view</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="card">
+            <h2>View Our Supporters</h2>
+            <a asp-action="Admin_OtherPartners" asp-controller="admin">
+                <p>View Our Supporters for your NGO.</p>
+                <button class="btn"><i class="icon fa fa-heart"></i>View Our Supporters</button>
+                <div class="overlay">
+                    <div class="overlay-content">
+                        <p>Click to view</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="card">
+            <h2>Update Our mission</h2>
+            <a asp-action="fetchmission" asp-controller="admin">
+                <p>Edit Our mission for your NGO.</p>
+                <button class="btn"><i class="icon fa fa-heart"></i>Edit Our mission</button>
+                <div class="overlay">
+                    <div class="overlay-content">
+                        <p>Click to view</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="card">
+            <h2>Insert Our Programmes</h2>
+            <a asp-action="Admin_OurProgrames" asp-controller="admin">
+                <p>Insert Our Programmes for your NGO.</p>
+                <button class="btn"><i class="icon fa fa-heart"></i>Insert Our Programmes</button>
+                <div class="overlay">
+                    <div class="overlay-content">
+                        <p>Click to view</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="card">
+            <h2>Insert Help Center</h2>
+            <a asp-action="Admin_HelpCentre" asp-controller="admin">
+                <p>Insert faq for your NGO.</p>
+                <button class="btn"><i class="icon fa fa-heart"></i>Insert Help Center</button>
+                <div class="overlay">
+                    <div class="overlay-content">
+                        <p>Click to view</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="card">
+            <h2>Update Help Center</h2>
+            <a asp-action="fetch_help" asp-controller="admin">
+                <p>Edit faq for your NGO.</p>
+                <button class="btn"><i class="icon fa fa-heart"></i>Edit Help Center</button>
+                <div class="overlay">
+                    <div class="overlay-content">
+                        <p>Click to view</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+   
+</div>
+</center>

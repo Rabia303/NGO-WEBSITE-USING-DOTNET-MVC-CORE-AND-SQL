@@ -1,0 +1,56 @@
+﻿@model IEnumerable<ourPrograms>
+@{
+    ViewData["Title"] = "fetchprogrammes";
+    Layout = "~/Views/Shared/admin_layout.cshtml";
+}
+
+
+
+<section class="ls section_padding_top_50 section_padding_bottom_50 columns_padding_10">
+    <div class="container-fluid">
+        <section class="ls section_padding_top_50 section_padding_bottom_50 columns_padding_10">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h3>FETCH OUR PROGRAMMES</h3>
+                    </div>
+                </div>
+                <!-- .row -->
+                <!-- .row -->
+                <!-- Display list of causes -->
+                <div class="container">
+                    <div class="row justify-content-center mt-4">
+                        @foreach (var i in Model)
+                        {
+                            <div class="col-lg-4 mb-4" style="margin-bottom: 20px;">
+                                <div class="card border-0 shadow-sm" style="border-radius: 10px; overflow: hidden;">
+                                    <img src="~/@i.img" class="card-img-top img-fluid" alt="Mission" style="height: 250px; object-fit: cover; border-radius: 10px 10px 0 0;">
+                                    <div class="card-body" style="background-color: #f9f9f9;">
+                                        <h5 class="card-title mb-3" style="font-weight: bold; color: #333;">Program ID: @i.opID</h5>
+
+                                        <p class="card-text mb-4" style="color: #666;">Heading  : @i.opHeading</p>
+
+                                        <p class="card-text mb-4" style="color: #666;">Description  : @i.opDesc</p>
+
+                                        <div class="d-flex justify-content-between">
+                                            <a asp-route-opID="@i.opID" asp-action="edit_programmes" class="btn btn-primary" style="color: #fff;">Edit</a>
+                                            <a asp-route-opID="@i.opID" asp-action="delete_programmes" class="btn btn-danger" style="color: #fff;">Delete</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+
+                <!-- .row -->
+            </div>
+            <!-- .container-fluid -->
+        </section>
+    </div>
+</section>
+
+
+
+
+

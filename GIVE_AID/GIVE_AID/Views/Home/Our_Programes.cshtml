@@ -1,0 +1,66 @@
+﻿@model IEnumerable<ourPrograms>
+@{
+    ViewData["Title"] = "Our_Programes";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<section class="page_breadcrumbs offset_breadcrumbs ds ms parallax section_padding_50">
+	<div class="container with_top_border">
+		<div class="row">
+			<div class="col-sm-6 text-center text-sm-left">
+				<h2>Our Programes</h2>
+			</div>
+			<div class="col-sm-6 text-center text-sm-right">
+				<ol class="breadcrumb darklinks grey">
+					<li>
+						<a asp-action="index" asp-controller="home">
+							Home
+						</a>
+					</li>
+					<li>
+						<a href="#">Pages</a>
+					</li>
+					<li class="active"></li>
+				</ol>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="ls section_padding_top_100 section_padding_bottom_100">
+	
+	<div class="container">
+		 @foreach(var i in Model)
+    {
+		<div class="row">
+			<div class="col-sm-12">
+				<article class="vertical-item">
+					<div class="item-media">
+							<img src="~/@i.img" />
+					</div>
+					<div class="item-content">
+						<h3 class="entry-title bold">
+							<a asp-action="our Programs" rel="bookmark"></a>
+						</h3>
+					
+					</div>
+					<div class="row columns_padding_50">
+						<div class="col-md-6">
+							<p>@i.opHeading</p>
+								<p>@i.opDesc</p>
+							
+						</div>
+						<div class="col-md-6">
+							<div class="with_border with_padding">
+									
+								<p>
+									<a asp-action="donate" class="theme_button">Donate for the cause</a>
+								</p>
+							</div>
+						</div>
+					</div>
+				</article>
+			</div>
+		</div>
+		}
+	</div>
+</section>

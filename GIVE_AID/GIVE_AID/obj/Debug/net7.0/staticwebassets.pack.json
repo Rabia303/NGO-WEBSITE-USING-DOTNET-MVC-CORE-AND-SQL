@@ -1,0 +1,1181 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\GIVE_AID.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GIVE_AID.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\aboutimages1\\0ad7fcb6-0600-4fbb-bb49-fd67da697ba8recent_post2.jpg",
+      "PackagePath": "staticwebassets\\aboutimages1\\0ad7fcb6-0600-4fbb-bb49-fd67da697ba8recent_post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\aboutimages1\\10736f3e-0edd-43c1-9a91-e130c14461a6.png",
+      "PackagePath": "staticwebassets\\aboutimages1\\10736f3e-0edd-43c1-9a91-e130c14461a6.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\aboutimages1\\19b6af85-8d5d-4e12-9f57-b66155cdd564.png",
+      "PackagePath": "staticwebassets\\aboutimages1\\19b6af85-8d5d-4e12-9f57-b66155cdd564.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\aboutimages1\\1ed6cc99-6f46-4454-8330-c7d8b22445a4volunteer-service-6772198_640.jpg",
+      "PackagePath": "staticwebassets\\aboutimages1\\1ed6cc99-6f46-4454-8330-c7d8b22445a4volunteer-service-6772198_640.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\aboutimages1\\2310832f-39fd-47ea-8bd8-368815a6064fpexels-abhay-pratap-14108494.jpg",
+      "PackagePath": "staticwebassets\\aboutimages1\\2310832f-39fd-47ea-8bd8-368815a6064fpexels-abhay-pratap-14108494.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\aboutimages1\\745460a8-0909-4320-8b2e-7fd183375e52.png",
+      "PackagePath": "staticwebassets\\aboutimages1\\745460a8-0909-4320-8b2e-7fd183375e52.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\aboutimages1\\8f878dcb-f30f-47b4-af08-f09353478409.png",
+      "PackagePath": "staticwebassets\\aboutimages1\\8f878dcb-f30f-47b4-af08-f09353478409.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\aboutimg\\04.jpg",
+      "PackagePath": "staticwebassets\\aboutimg\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\aboutimg\\3b839d7d-8569-48fd-a56a-558da797d5b8images.jpg",
+      "PackagePath": "staticwebassets\\aboutimg\\3b839d7d-8569-48fd-a56a-558da797d5b8images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\aboutimg\\4d04c4cc-a90c-459a-a7db-e0240f8c18f17 2.PNG",
+      "PackagePath": "staticwebassets\\aboutimg\\4d04c4cc-a90c-459a-a7db-e0240f8c18f17 2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\aboutimg\\708582c2-5282-4142-a2d6-68827eb6d4791_rrvoh2nSKX_9KSKWPk2Rwg.jpg",
+      "PackagePath": "staticwebassets\\aboutimg\\708582c2-5282-4142-a2d6-68827eb6d4791_rrvoh2nSKX_9KSKWPk2Rwg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\aboutimg\\7305bfef-d81f-470b-a9db-705bca28c73b1_rrvoh2nSKX_9KSKWPk2Rwg.jpg",
+      "PackagePath": "staticwebassets\\aboutimg\\7305bfef-d81f-470b-a9db-705bca28c73b1_rrvoh2nSKX_9KSKWPk2Rwg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\aboutimg\\9d3be995-0bcc-4bde-9025-285a7a86bd6devent-single.jpg",
+      "PackagePath": "staticwebassets\\aboutimg\\9d3be995-0bcc-4bde-9025-285a7a86bd6devent-single.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\aboutimg\\9d7068e9-a6bb-4ca6-8d62-4ce9c50d666fpexels-rdne-stock-project-6646918.jpg",
+      "PackagePath": "staticwebassets\\aboutimg\\9d7068e9-a6bb-4ca6-8d62-4ce9c50d666fpexels-rdne-stock-project-6646918.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\aboutimg\\download (3).jpg",
+      "PackagePath": "staticwebassets\\aboutimg\\download (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\aboutimg\\volunteer-service-6772198_640.jpg",
+      "PackagePath": "staticwebassets\\aboutimg\\volunteer-service-6772198_640.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\css\\animations.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animations.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\css\\dashboard.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\css\\shop.css",
+      "PackagePath": "staticwebassets\\assets\\css\\shop.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\fonts\\fontawesome-webfont5b62.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont5b62.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\fonts\\fontawesome-webfont5b62.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont5b62.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\fonts\\fontawesome-webfont5b62.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont5b62.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\fonts\\fontawesome-webfont5b62.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont5b62.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\fonts\\fontawesome-webfont5b62.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont5b62.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\fonts\\rt-icons-23dab.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\rt-icons-23dab.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\fonts\\rt-icons-23dab.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\rt-icons-23dab.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\fonts\\rt-icons-23dab.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\rt-icons-23dab.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\fonts\\rt-icons-23dab.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\rt-icons-23dab.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\fonts\\rt-icons-2d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\rt-icons-2d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\fonts\\socicon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\socicon.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\fonts\\socicon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\socicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\fonts\\socicon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\socicon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\fonts\\socicon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\socicon.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\fonts\\socicond41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\socicond41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\404.png",
+      "PackagePath": "staticwebassets\\assets\\images\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\AID VEDIO.mp4",
+      "PackagePath": "staticwebassets\\assets\\images\\AID VEDIO.mp4"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\AID-DARK.png",
+      "PackagePath": "staticwebassets\\assets\\images\\AID-DARK.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\AID.png",
+      "PackagePath": "staticwebassets\\assets\\images\\AID.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\blog_post1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog_post1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\blog_post2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog_post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\blog_post3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog_post3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\boy.png",
+      "PackagePath": "staticwebassets\\assets\\images\\boy.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\careers\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\careers\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\careers\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\careers\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\careers\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\careers\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\causes\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\causes\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\causes\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\causes\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\causes\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\causes\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\causes\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\causes\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\causes\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\causes\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\causes\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\causes\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\causes\\07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\causes\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\causes\\08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\causes\\08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\causes_big\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\causes_big\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\event-single.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event-single.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\events\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\events\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\events\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\events\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\events\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\events\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\events\\07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\events\\08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\events\\09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\faces\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\21.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\22.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\23.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\24.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\25.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\26.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\27.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\28.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\29.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\gallery\\30.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\icon.html",
+      "PackagePath": "staticwebassets\\assets\\images\\icon.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\logo-dark.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\partners\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\partners\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\partners\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\partners\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\partners\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\partners\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\partners\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\partners\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\person.png",
+      "PackagePath": "staticwebassets\\assets\\images\\person.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\person2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\person2.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\project-single.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project-single.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\recent_post1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\recent_post1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\recent_post2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\recent_post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\recent_post3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\recent_post3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\shop\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\shop\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\shop\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\shop\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\shop\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\shop\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\slide01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\slide02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\slide03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\team\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\team\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\team\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\team\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\team\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\team\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\teaser01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teaser01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\teaser02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teaser02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\teaser03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\teaser03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\teaser_icon01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\teaser_icon01.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\teaser_icon02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\teaser_icon02.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\teaser_icon03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\teaser_icon03.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\video.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\images\\video2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\video2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\background_section.png",
+      "PackagePath": "staticwebassets\\assets\\img\\background_section.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\noise-dark.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\noise-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\noise.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\noise.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\img\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\parallax\\bottom.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\parallax\\bottom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\parallax\\breadcrumbs.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\parallax\\breadcrumbs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\parallax\\features.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\parallax\\features.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\parallax\\features2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\parallax\\features2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\parallax\\map.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\parallax\\map.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\parallax\\map2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\parallax\\map2.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\parallax\\progress.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\parallax\\progress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\parallax\\soon.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\parallax\\soon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\parallax\\texture.png",
+      "PackagePath": "staticwebassets\\assets\\img\\parallax\\texture.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\parallax\\videoblock.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\parallax\\videoblock.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\pattern1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pattern1.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\pattern10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pattern10.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\pattern11.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pattern11.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\pattern2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pattern2.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\pattern3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pattern3.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\pattern4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pattern4.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\pattern5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pattern5.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\pattern6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pattern6.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\pattern7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pattern7.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\pattern8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pattern8.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\pattern9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pattern9.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\preloader.gif",
+      "PackagePath": "staticwebassets\\assets\\img\\preloader.gif"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\img\\prettyPhoto\\facebook\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\assets\\img\\prettyPhoto\\facebook\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\js\\admin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\admin.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\js\\admin\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\admin\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\js\\admin\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\admin\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\js\\admin\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\admin\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\js\\admin\\jquery-jvectormap-2.0.3.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\admin\\jquery-jvectormap-2.0.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\js\\admin\\jquery-jvectormap-world-mill.js",
+      "PackagePath": "staticwebassets\\assets\\js\\admin\\jquery-jvectormap-world-mill.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\js\\admin\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\admin\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\js\\admin\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\admin\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\js\\compressed.js",
+      "PackagePath": "staticwebassets\\assets\\js\\compressed.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\js\\switcher.js",
+      "PackagePath": "staticwebassets\\assets\\js\\switcher.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\assets\\js\\vendor\\modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage1\\02.jpg",
+      "PackagePath": "staticwebassets\\ngoimage1\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage1\\download (3).jpg",
+      "PackagePath": "staticwebassets\\ngoimage1\\download (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\016765bd-6c6d-49a7-959f-84231ccde631jurica-koletic-7YVZYZeITc8-unsplash.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\016765bd-6c6d-49a7-959f-84231ccde631jurica-koletic-7YVZYZeITc8-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\03220f78-e998-4629-97ae-0a3c915257f1pexels-thom-gonzalez-6836465.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\03220f78-e998-4629-97ae-0a3c915257f1pexels-thom-gonzalez-6836465.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\0699b056-2bda-43d7-8003-f931c5941297children-2876359_640.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\0699b056-2bda-43d7-8003-f931c5941297children-2876359_640.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\0f25bb80-de16-46b9-b609-57e0481997f6children-2876359_640.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\0f25bb80-de16-46b9-b609-57e0481997f6children-2876359_640.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\1082270c-72a9-44cc-9f80-ef8a788df746images.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\1082270c-72a9-44cc-9f80-ef8a788df746images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\156fbd49-c82b-44b5-95fd-ad766aaa999d02.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\156fbd49-c82b-44b5-95fd-ad766aaa999d02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\15833e05-3327-4b64-97d8-a069431540dedownload.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\15833e05-3327-4b64-97d8-a069431540dedownload.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\299844ef-f894-4957-89fa-d746cd69637b123.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\299844ef-f894-4957-89fa-d746cd69637b123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\2b1649c7-a6d0-482f-92ed-6f7d057ce75c05.png",
+      "PackagePath": "staticwebassets\\ngoimage\\2b1649c7-a6d0-482f-92ed-6f7d057ce75c05.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\35426098-4140-4689-a354-60a7d080a45e123.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\35426098-4140-4689-a354-60a7d080a45e123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\3adb5aaa-0a07-4562-90cb-508ddcfa9b5e123.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\3adb5aaa-0a07-4562-90cb-508ddcfa9b5e123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\3e347051-ba55-4fe1-96b4-8aab04b6f047123.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\3e347051-ba55-4fe1-96b4-8aab04b6f047123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\3fef42d7-8071-4c85-9c2c-b97360ca61a5images.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\3fef42d7-8071-4c85-9c2c-b97360ca61a5images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\4112cdde-c160-4bad-953b-ee39a00df5e3download (3).jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\4112cdde-c160-4bad-953b-ee39a00df5e3download (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\4455cc09-e699-4656-aee2-337c86b2ed4d123.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\4455cc09-e699-4656-aee2-337c86b2ed4d123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\4df073af-edf2-49ea-a716-e0fce09dc4dateaser03.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\4df073af-edf2-49ea-a716-e0fce09dc4dateaser03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\53d751b4-1c30-4482-9899-42027f70139d01.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\53d751b4-1c30-4482-9899-42027f70139d01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\5437d520-e3c8-42a5-8452-5d84f271dede123.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\5437d520-e3c8-42a5-8452-5d84f271dede123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\5b3476d4-c8ea-4012-bf0a-4c46bf6ec7cateaser02.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\5b3476d4-c8ea-4012-bf0a-4c46bf6ec7cateaser02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\652426d9-5878-4282-8ee7-eeae010226ddboy-1139042_640.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\652426d9-5878-4282-8ee7-eeae010226ddboy-1139042_640.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\719e9848-7f56-4a1d-9360-46314edbf74302.png",
+      "PackagePath": "staticwebassets\\ngoimage\\719e9848-7f56-4a1d-9360-46314edbf74302.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\7403916b-db7a-49ed-bcde-683e3a1ee734images (1).jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\7403916b-db7a-49ed-bcde-683e3a1ee734images (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\89f1659e-3dc2-4f4e-bc1d-54770000603cpexels-rdne-stock-project-6646918.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\89f1659e-3dc2-4f4e-bc1d-54770000603cpexels-rdne-stock-project-6646918.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\8be4e423-9865-4cc0-8bb8-8134d8e25a3cblog_post2.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\8be4e423-9865-4cc0-8bb8-8134d8e25a3cblog_post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\a04b272f-b83e-479a-8421-c89306bcd461123.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\a04b272f-b83e-479a-8421-c89306bcd461123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\a12e8f03-2f75-4e28-9b1a-405eb07cf22dproject-single.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\a12e8f03-2f75-4e28-9b1a-405eb07cf22dproject-single.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\aac62846-0418-4e66-9b56-55260ca4aa9bblog_post2.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\aac62846-0418-4e66-9b56-55260ca4aa9bblog_post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\b58f9927-0e6b-4979-9ae7-5e78bb5567af03.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\b58f9927-0e6b-4979-9ae7-5e78bb5567af03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\boy-1139042_640.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\boy-1139042_640.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\boy.png",
+      "PackagePath": "staticwebassets\\ngoimage\\boy.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\c9d4827b-4564-4860-9f59-0061fa22635c01.png",
+      "PackagePath": "staticwebassets\\ngoimage\\c9d4827b-4564-4860-9f59-0061fa22635c01.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\children-2876359_640.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\children-2876359_640.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\d096975d-9e8c-43e4-aae7-e7868abe7b58pexels-adam-saad-10456563.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\d096975d-9e8c-43e4-aae7-e7868abe7b58pexels-adam-saad-10456563.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\d0c9f9ea-3158-4c6d-9df0-83383dfe1d2205.png",
+      "PackagePath": "staticwebassets\\ngoimage\\d0c9f9ea-3158-4c6d-9df0-83383dfe1d2205.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\d58bded3-2723-4af3-a603-58218e94d6edteaser02.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\d58bded3-2723-4af3-a603-58218e94d6edteaser02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\d80fe2f8-6757-4738-aaac-0ed21f3bb4e6jurica-koletic-7YVZYZeITc8-unsplash.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\d80fe2f8-6757-4738-aaac-0ed21f3bb4e6jurica-koletic-7YVZYZeITc8-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\d8731e23-7fe7-4eef-aa58-d89f81c8a358123.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\d8731e23-7fe7-4eef-aa58-d89f81c8a358123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\df9cafe3-8f07-4d50-8565-f6cc48cc6d5a02.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\df9cafe3-8f07-4d50-8565-f6cc48cc6d5a02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\eb5a7286-4082-4b12-9c38-e8f140b507f4123.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\eb5a7286-4082-4b12-9c38-e8f140b507f4123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\f96e77af-d238-47b1-ac29-1a8c590a3650features2.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\f96e77af-d238-47b1-ac29-1a8c590a3650features2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\pexels-adam-saad-10456563.jpg",
+      "PackagePath": "staticwebassets\\ngoimage\\pexels-adam-saad-10456563.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimage\\what_is_image_Processing.png",
+      "PackagePath": "staticwebassets\\ngoimage\\what_is_image_Processing.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimagep\\2a26a095-8460-4018-8cd7-934921710d6306.jpg",
+      "PackagePath": "staticwebassets\\ngoimagep\\2a26a095-8460-4018-8cd7-934921710d6306.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimagep\\2f13cae4-7325-4bfa-85bb-bdcdfb9ee0e506.jpg",
+      "PackagePath": "staticwebassets\\ngoimagep\\2f13cae4-7325-4bfa-85bb-bdcdfb9ee0e506.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimagep\\775d4d2c-3a33-44b0-8b47-4b0ab84219a306.jpg",
+      "PackagePath": "staticwebassets\\ngoimagep\\775d4d2c-3a33-44b0-8b47-4b0ab84219a306.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimagep\\e9406aad-55f6-42db-aa2d-9fcdb9c47839123.jpg",
+      "PackagePath": "staticwebassets\\ngoimagep\\e9406aad-55f6-42db-aa2d-9fcdb9c47839123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\wwwroot\\ngoimagep\\f6811789-fece-488f-8e11-2965014e442206.jpg",
+      "PackagePath": "staticwebassets\\ngoimagep\\f6811789-fece-488f-8e11-2965014e442206.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.GIVE_AID.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.GIVE_AID.props",
+      "PackagePath": "build\\GIVE_AID.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.GIVE_AID.props",
+      "PackagePath": "buildMultiTargeting\\GIVE_AID.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.GIVE_AID.props",
+      "PackagePath": "buildTransitive\\GIVE_AID.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

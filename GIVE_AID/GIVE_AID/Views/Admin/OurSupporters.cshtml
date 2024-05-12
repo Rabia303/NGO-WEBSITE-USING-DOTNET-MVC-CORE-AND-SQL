@@ -1,0 +1,56 @@
+﻿@model about_os
+@{
+    ViewData["Title"] = "OurSupporters";
+    Layout = "~/Views/Shared/admin_layout.cshtml";
+}
+
+<div class="row justify-content">
+    <!-- Center the form -->
+    <div class="col-xs-12 col-md-6">
+        <!-- Basic form -->
+        <div class="form-container">
+            <!-- Added a container for the form -->
+            <form method="post" enctype="multipart/form-data">
+                <!-- Form elements go here -->
+
+                <h4>
+                    <b><center>OUR SUPPORTERS</center></b>
+                </h4>
+                <br />
+
+                <div class="form-group">
+                    <label for="picture"><h5>Insert Image of first Supporter</h5></label>
+                    <input type="file"
+                           name="imga"
+                           class="form-control"
+                           placeholder="Insert Image of first Supporter " />
+                </div>
+                <div class="form-group">
+                    <label for="picture"><h5>Insert Image of Second Supporter</h5></label>
+                    <input type="file"
+                           name="imgb"
+                           class="form-control"
+                           placeholder="Insert Image of Second Supporter " />
+                </div>
+                <div class="form-group">
+                    <label for="picture"><h5>Insert Image of third Supporter</h5></label>
+                    <input type="file"
+                           name="imgc"
+                           class="form-control"
+                           placeholder="Insert Image of third Supporter " />
+                </div>
+                <div class="form-group">
+                    <label for="picture"><h5>Insert Image of fourth Supporter</h5></label>
+                    <input type="file"
+                           name="imgd"
+                           class="form-control"
+                           placeholder="Insert Image of fourth Supporter " />
+                </div>
+                <br />
+                <button type="submit" class="theme_button">ADD</button>
+            </form>
+        </div>
+    </div>
+    <!-- .col-* -->
+</div>
+

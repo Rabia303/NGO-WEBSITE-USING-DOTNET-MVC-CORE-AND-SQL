@@ -1,0 +1,160 @@
+﻿@model contact
+@{
+    ViewData["Title"] = "Contact";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<section class="page_breadcrumbs offset_breadcrumbs ds ms parallax section_padding_50">
+	<div class="container with_top_border">
+		<div class="row">
+			<div class="col-sm-6 text-center text-sm-left">
+				<h2>Contact Us</h2>
+			</div>
+			<div class="col-sm-6 text-center text-sm-right">
+				<ol class="breadcrumb darklinks grey">
+					<li>
+						<a asp-action="home">
+							Home
+						</a>
+					</li>
+					<li>
+						<a asp-action="contact">Pages</a>
+					</li>
+					<li class="active">Contact Us</li>
+				</ol>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+<section class="ls section_padding_top_100 section_padding_bottom_40 columns_margin_bottom_30">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4 col-sm-12 col-md-push-4">
+				<img src="images/boy.png" alt="" class="image-overlap2" />
+			</div>
+			<div class="col-md-4 col-md-pull-4 col-sm-6">
+				<h2 class="fontcolor section_header margin_0">Contact Us, cause</h2>
+				<h2 class="section_header big margin_0">
+					They
+					<br>
+					<strong class="text-uppercase">need</strong>
+					<br> your
+					<br>
+					<strong class="text-uppercase highlight">help...</strong>
+				</h2>
+			</div>
+			<div class="col-md-4 col-sm-6 text-right">
+				<h2 class="fontcolor section_header">Contact info:</h2>
+
+				<div class="media small-teaser inline-block">
+					<div class="media-body grey">
+						<p class="fontsize_20">
+							<strong>800 516 3290</strong>
+						</p>
+						<p class="fontsize_12 topmargin_10">
+							Call us
+						</p>
+					</div>
+					<div class="media-right">
+						<div class="teaser_icon size_normal highlight">
+							<i class="fa fa-phone-square" aria-hidden="true"></i>
+						</div>
+					</div>
+				</div>
+				<br>
+
+				<div class="media small-teaser inline-block">
+					<div class="media-body grey">
+						<p class="fontsize_20 margin_0">
+							<strong><a href="https://html.modernwebtemplates.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f39a9d959cb3949a859a9d94dd909c9e">[email&#160;protected]</a></strong>
+						</p>
+						<p class="fontsize_12 topmargin_10">
+							Our email
+						</p>
+					</div>
+					<div class="media-right">
+						<div class="teaser_icon size_normal highlight">
+							<i class="fa fa-envelope-square" aria-hidden="true"></i>
+						</div>
+					</div>
+				</div>
+				<br>
+
+				<div class="media small-teaser inline-block">
+					<div class="media-body grey">
+						<p class="fontsize_20 margin_0">
+							<strong>2 Ave., New York</strong>
+						</p>
+						<p class="fontsize_12 topmargin_10">
+							Address
+						</p>
+					</div>
+					<div class="media-right">
+						<div class="teaser_icon size_normal highlight">
+							<i class="fa fa-envelope-square" aria-hidden="true"></i>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--.row -->
+
+		<div class="row topmargin_40">
+			<div class="col-sm-12 text-center">
+				<h2 class="big">
+					If you wondered volunteering,
+					<br> please fulfill
+				</h2>
+
+				<form  method="post" >
+
+					<div class="col-sm-4">
+						<div class="contact-form-name">
+							<label for="name">Full Name <span class="required">*</span></label>
+							<input type="text" asp-for="name" class="form-control" placeholder="Name" required>
+						</div>
+					</div>
+
+					<div class="col-sm-4">
+						<div class="contact-form-phone">
+							<label for="phone">Phone <span class="required">*</span></label>
+							<input type="text"  asp-for="phone" class="form-control" placeholder="Phone" required>
+						</div>
+					</div>
+
+					<div class="col-sm-4">
+						<div class="contact-form-email">
+							<label for="email">Email address <span class="required">*</span></label>
+							<input type="email"  asp-for="email" class="form-control" placeholder="Email" required>
+						</div>
+					</div>
+
+					<div class="col-sm-12">
+						<div class="contact-form-message">
+							<label for="message">Message</label>
+							<textarea  asp-for="message" class="form-control" rows="6" placeholder="Message"></textarea>
+						</div>
+					</div>
+
+					<div class="col-sm-12">
+						<div class="contact-form-submit">
+							<button type="submit" class="theme_button wide_button color1">Send now</button>
+						</div>
+					</div>
+
+				</form>
+
+
+
+			</div>
+		</div>
+
+	</div>
+	<!--.container -->
+
+</section>
+
+
+

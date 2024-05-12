@@ -1,0 +1,54 @@
+﻿@model IEnumerable<listofNGO>
+@{
+    // ViewData["Title"] = "Admin_ContactList";
+    Layout = "~/Views/Shared/admin_layout.cshtml";
+}
+
+
+<section class="ls section_padding_top_50 section_padding_bottom_50 columns_padding_10">
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-md-12">
+                <h3>
+                    Contact List
+
+                </h3>
+            </div>
+            <!-- .col-* -->
+        </div>
+        <!-- .row -->
+
+        <table class="table">
+            <thead class="thead-dark">
+
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">NAME oF NGO</th>
+                    <th scope="col">DESCRIPTION</th>
+                    <th scope="col">IMAGE</th>
+                   
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var i in Model)
+                {
+                    <tr>
+
+                        <th scope="row">1</th>
+                        <td>@i.nameofNGO</td>
+                        <td>@i.desc</td>
+                        <td>@i.logo_img</td>
+                        
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+
+
+        <!-- .row -->
+        <!-- .row main columns -->
+    </div>
+    <!-- .container -->
+</section>

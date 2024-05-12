@@ -1,0 +1,244 @@
+﻿@model about1
+@{
+    ViewData["Title"] = "About";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="page_breadcrumbs offset_breadcrumbs ds ms parallax section_padding_50">
+	<div class="container with_top_border">
+		<div class="row">
+			<div class="col-sm-6 text-center text-sm-left">
+				<h2>About us</h2>
+			</div>
+			<div class="col-sm-6 text-center text-sm-right">
+				<ol class="breadcrumb darklinks grey">
+					<li>
+						<a asp-action="home">
+							Home
+						</a>
+					</li>
+					<li>
+						<a asp-action="about">Pages</a>
+					</li>
+					<li class="active">About us</li>
+				</ol>
+			</div>
+		</div>
+	</div>
+</section>
+<section style="padding: 50px 0;">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				@foreach (var i in Model.aboutom)
+				{
+					<div style="margin-bottom: 30px;">
+						<img style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"
+							 src="~/@i.img" alt="Mission Image">
+					</div>
+				}
+			</div>
+			<div class="col-md-6">
+				<h2 style="font-size: 45px; color: #FF5252; margin-bottom: 30px; text-align: left;" class="section_header bold">Our Mission</h2>
+				@foreach (var i in Model.aboutom)
+				{
+					<div style="color: #666; line-height: 1.6; text-align: left;">
+						<p style="font-style:italic;font-size:24px">
+							At Our NGO, we are dedicated to making a positive impact in our community and beyond. Our mission is to provide
+							essential services and support to those in need, promote education and awareness, and advocate for social
+							justice and equality.
+						</p>
+						<br /><br />
+						<p style="font-style:italic;font-size:24px">
+							We strive to empower individuals and families to improve their lives and build a brighter future. Through
+							collaboration, compassion, and commitment, we work towards creating a more equitable and inclusive society
+							where everyone has the opportunity to thrive.
+						</p>
+						<p>@i.desc</p>
+					</div>
+				}
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section class="ls section_padding_top_100">
+	@foreach (var i in Model.aboutom)
+	{
+		<div class="container">
+			<div class="row">
+				<div class="col-md-5 col-md-push-7 text-center bottommargin_0">
+					<img src="~/@i.img" alt="Image">
+				</div>
+				<div class="col-md-7 col-md-pull-5">
+					<h2 class="section_header bold">
+						What
+						<span class="highlight">we do?</span>
+					</h2>
+					<p>@i.desc</p>
+					<div class="row columns_margin_bottom_30 topmargin_40">
+						<div class="col-sm-6">
+							<div class="media">
+								<div class="media-left big-lg-padding">
+									<div class="main_bg_color fontsize_24 bold text-center padding-icon">
+										.01
+										<br>
+										<i class="fa fa-leaf" aria-hidden="true"></i>
+									</div>
+								</div>
+								<div class="media-body">
+									<h4 class="highlight text-uppercase">Life saving</h4>
+									<p>dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-6">
+							<div class="media">
+								<div class="media-left big-lg-padding">
+									<div class="main_bg_color fontsize_24 bold text-center padding-icon">
+										.02
+										<br>
+										<i class="fa fa-heart" aria-hidden="true"></i>
+									</div>
+								</div>
+								<div class="media-body">
+									<h4 class="highlight text-uppercase">healing</h4>
+									<p>dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-6">
+							<div class="media">
+								<div class="media-left big-lg-padding">
+									<div class="main_bg_color fontsize_24 bold text-center padding-icon">
+										.03
+										<br>
+										<i class="fa fa-gift" aria-hidden="true"></i>
+									</div>
+								</div>
+								<div class="media-body">
+									<h4 class="highlight text-uppercase">Adopting</h4>
+									<p>dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-6">
+							<div class="media">
+								<div class="media-left big-lg-padding">
+									<div class="main_bg_color fontsize_24 bold text-center padding-icon">
+										.04
+										<br>
+										<i class="fa fa-thumbs-up" aria-hidden="true"></i>
+									</div>
+								</div>
+								<div class="media-body">
+									<h4 class="highlight text-uppercase">helping people</h4>
+									<p>dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	}
+</section>
+
+
+
+<div class="ls map_bg background_center">
+	<section class="section_padding_top_100 section_padding_bottom_50 table_section table_section_md columns_padding_0 columns_margin_0">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="embed-responsive embed-responsive-2by1 topmargin_20">
+						<a href="https://www.youtube.com/embed/xKxrkht7CpY" class="embed-placeholder">
+							<img src="~/assets/images/video2.jpg" alt="">
+						</a>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="with_padding_big with_border thick_border left-offset">
+						<h2 class="section_header">
+							<strong>Helping children in Nigeria</strong>
+						</h2>
+						<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+						<div class="progress topmargin_30 bottommargin_40">
+							<div class="progress-bar" role="progressbar" data-transitiongoal="75">
+							</div>
+						</div>
+						<p class="inline-vertical-center">
+							<span class="big bold grey">
+								To Go <span class="highlight">$2150</span>
+								<span class="horizontal-divider thin">
+									<i class="fa fa-angle-right" aria-hidden="true"></i>
+								</span>
+							</span>
+							<a href="#" class="theme_button wide_button inverse inverse2 margin_0">Donate</a>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="section_padding_top_50 section_padding_bottom_75">
+		@foreach(var i in Model.aboutos)
+	{
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12 text-center">
+					<h2 class="section_header bold">
+						Our
+						<span class="highlight">Partners</span>
+					</h2>
+				</div>
+			</div>
+			<div class="row topmargin_60 columns_margin_bottom_30">
+				<div class="col-md-3 col-sm-6 text-center">
+					<a href="#" class="partner-link">
+							<img src="~/@i.osimg1" />
+					</a>
+				</div>
+					<div class="col-md-3 col-sm-6 text-center">
+						<a href="#" class="partner-link">
+							<img src="~/@i.osimg2" />
+						</a>
+					</div>
+					<div class="col-md-3 col-sm-6 text-center">
+						<a href="#" class="partner-link">
+							<img src="~/@i.osimg3" />
+						</a>
+					</div>
+					<div class="col-md-3 col-sm-6 text-center">
+						<a href="#" class="partner-link">
+							<img src="~/@i.osimg4" />
+						</a>
+					</div>
+			</div>
+		</div>
+	}
+	</section>
+	<section style="padding: 50px 0; text-align: center;">
+		<h2 style="font-size: 32px; color: #333; margin-bottom: 30px;">Our Team</h2>
+		<p style="font-size: 18px; color: #666; margin-bottom: 30px;">
+			Meet the dedicated individuals who drive our organization
+			forward with passion, expertise, and commitment:
+		</p>
+		@foreach (var i in Model.aboutteam)
+		{
+
+		<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+			<!-- Team member cards -->
+			<div style="width: 300px; margin: 20px; padding: 20px; background-color: #f9f9f9; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+				<img style="width: 150px; height: 150px; border-radius: 50%; margin-bottom: 20px;" src="~/@i.img" />
+				<h3 style="font-size: 24px; color: #333; margin-bottom: 10px;">@i.name</h3>
+				<p style="font-size: 16px; color: #666; margin-bottom: 20px;">Position: @i.designation</p>
+				
+			</div>
+			
+		</div>
+		}
+	</section>
+</div>

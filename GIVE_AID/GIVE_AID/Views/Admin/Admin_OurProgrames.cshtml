@@ -1,0 +1,53 @@
+﻿@model ourPrograms
+@{
+    // ViewData["Title"] = "Admin_OurProgrames";
+    Layout = "~/Views/Shared/admin_layout.cshtml";
+}
+
+
+
+<section class="ls section_padding_top_50 section_padding_bottom_50 columns_padding_10">
+                <div class="container-fluid">
+                    <section class="ls section_padding_top_50 section_padding_bottom_50 columns_padding_10">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <h3>
+                                   Our Programs
+                                    </h3>
+                                </div>
+                            </div>
+                            <!-- .row -->
+                        
+                            <div class="row justify-content-center"> <!-- Center the form -->
+                                <div class="col-xs-12 col-md-6">
+                              
+                                    <div class="form-container">
+                            <form method="post" enctype="multipart/form-data">
+												<label ><h5>Program Name</h5></label>
+												<input type="text" asp-for="opHeading"  class="form-control" placeholder="Enter Program Name">
+												<div class="form-group">
+													<label >Details:</label>
+                                    <textarea class="form-control"  asp-for="opDesc" rows="6" placeholder="Enter details of the program"></textarea>
+												</div>
+                                <div class="form-group">
+                                    <label for="picture"><h5>Gallery Image:</h5></label>
+                                    <input type="file" name="img" class="form-control" placeholder="Enter Picture URL">
+                           
+                                </div>
+                                            <button type="submit" class="theme_button">ADD</button>
+                                        </form>
+                                    </div>
+                        @ViewBag.e
+                                    
+                                </div>
+                                <!-- .col-* -->
+                            </div>
+                            <!-- .row -->
+                        </div>
+                        <!-- .container-fluid -->
+                    </section>
+                </div>
+            </section>
+        
+            

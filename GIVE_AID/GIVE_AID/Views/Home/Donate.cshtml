@@ -1,0 +1,103 @@
+﻿@model donation
+@{
+    ViewData["Title"] = "Donate";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="page_breadcrumbs offset_breadcrumbs ds ms parallax section_padding_50">
+	<div class="container with_top_border">
+		<div class="row">
+			<div class="col-sm-6 text-center text-sm-left">
+				<h2>Make a donation</h2>
+			</div>
+			<div class="col-sm-6 text-center text-sm-right">
+				<ol class="breadcrumb darklinks grey">
+					<li>
+						<a asp-action="index" asp-controller="home">
+							Home
+						</a>
+					</li>
+					<li>
+						<a asp-action ="donate" asp-controller="home">Features</a>
+					</li>
+					<li class="active">Make a donation</li>
+				</ol>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section class="ls section_padding_100">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<div class="vertical-item content-overlap">
+					<div class="item-media">
+						<img src="~/assets/images/causes_big/04.jpg" alt="" />
+					</div>
+					<div class="item-content with_padding_big with_border theme_background fontsize_18">
+						<i class="fa fa-heart highlight top_icon" aria-hidden="true"></i>
+						<p class="text-center grey">Thankyou are donating </p>
+						<h3 class="entry-title black text-center">The Prophet (peace be upon him) said “Sadaqah extinguishes sin as water extinguishes fire” (Hadith, Tirmidhi).</h3>
+						<form method="post" class="donate-form">
+							<p>How much would you like to donate?</p>
+							<div class="flex-content">
+								
+								<div class="form-group auto-width">
+									
+									<div class="contact-form-message">
+										<label  class="sr-only">Amount</label>
+										<input type="string" asp-for="amount" class="form-control" placeholder="Your Amount">
+									</div>
+								</div>
+							</div>
+
+							<p>Personal info</p>
+
+							<div class="row columns_margin_bottom_30">
+								<div class="col-sm-6">
+									<div class="contact-form-name">
+										<label for="name" class="sr-only">Your name</label>
+										<input type="text" asp-for="name"  class="form-control" placeholder="Your name">
+									</div>
+								</div>
+
+								<div class="col-sm-6">
+									<div class="contact-form-phone">
+										<label for="phone" class="sr-only">Your phone</label>
+										<input type="text"  asp-for="contact"  class="form-control" placeholder="Your phone">
+									</div>
+								</div>
+								<div class="col-sm-6">
+									<div class="contact-form-email">
+										<label for="email" class="sr-only">Your email</label>
+										<input type="email"  asp-for="email"  class="form-control" placeholder="Your email">
+									</div>
+								</div>
+								<div class="col-sm-6">
+									<div class="contact-form-message">
+
+										<select asp-for="donationId" asp-items="@ViewBag.ep" >
+											<option selected>Cause</option>
+										</select>
+	
+									</div>
+								</div>
+								
+								<div class="col-sm-12 text-center bottommargin_0">
+									
+									<div class="contact-form-submit topmargin_30">
+										<button type="submit"  class="theme_button wide_button">Donate</button>
+									</div>
+								</div>
+							</div>
+
+						</form>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>

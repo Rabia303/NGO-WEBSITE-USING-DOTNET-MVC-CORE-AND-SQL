@@ -1,0 +1,50 @@
+﻿@model about_wwd
+@{
+    ViewData["Title"] = "editwwd";
+    Layout = "~/Views/Shared/admin_layout.cshtml";
+}
+
+<section class="ls section_padding_top_50 section_padding_bottom_50 columns_padding_10">
+    <div class="container-fluid">
+        <section class="ls section_padding_top_50 section_padding_bottom_50 columns_padding_10">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h3>
+                            Edit what we do
+                        </h3>
+                    </div>
+                </div>
+                <!-- .row -->
+
+                <div class="row justify-content">
+                    <!-- Center the form -->
+                    <div class="col-xs-12 col-md-6">
+                        <!-- Basic form -->
+                        <div class="form-container ">
+                            <!-- Added a container for the form -->
+
+                            <form method="post" enctype="multipart/form-data">
+                                <!-- Form elements go here -->
+                                <label><h5>Description :</h5></label>
+                                <textarea  name="desc" class="form-control" placeholder="Enter Description"></textarea>
+                                
+
+                                <label><h5>image:</h5></label>
+                                <input type="file" name="img" class="form-control">
+
+                                <button type="submit" class="theme_button">Edit</button>
+                            </form>
+                        </div>
+
+
+                    </div>
+                    <!-- .col-* -->
+                </div>
+                <!-- .row -->
+            </div>
+            <!-- .container-fluid -->
+        </section>
+    </div>
+</section>
+

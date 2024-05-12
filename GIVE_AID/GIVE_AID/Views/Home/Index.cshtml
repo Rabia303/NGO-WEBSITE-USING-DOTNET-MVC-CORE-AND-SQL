@@ -1,0 +1,297 @@
+﻿@model IEnumerable<ourPrograms>
+@{
+    // ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="intro_section page_mainslider ds black">
+	<div class="flexslider" data-dots="false">
+		<ul class="slides">
+
+			<li>
+				<img src="~/assets/images/slide01.jpg" alt="">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12 text-center">
+							<div class="slide_description_wrapper">
+								<div class="slide_description">
+									<div class="intro-layer" data-animation="fadeInUp">
+										<h3 class="bold">
+											Save the Life
+										</h3>
+									</div>
+									<div class="intro-layer topmargin_30" data-animation="fadeInUp">
+										<p class="thin grey">
+											Help People for their needs all over the world!
+										</p>
+									</div>
+									<div class="intro-layer topmargin_40" data-animation="fadeInUp">
+										<a asp-action="donate" asp-controller="home" class="theme_button color1 wide_button">Donate</a>
+									</div>
+								</div>
+								<!-- eof .slide_description -->
+							</div>
+							<!-- eof .slide_description_wrapper -->
+						</div>
+						<!-- eof .col-* -->
+					</div>
+					<!-- eof .row -->
+				</div>
+				<!-- eof .container -->
+			</li>
+
+			<li>
+				<img src="~/assets/images/slide02.jpg" alt="">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12 text-center">
+							<div class="slide_description_wrapper">
+								<div class="slide_description">
+									<div class="intro-layer" data-animation="fadeInUp">
+										<h3 class="bold">
+											Save the Life
+										</h3>
+									</div>
+									<div class="intro-layer topmargin_30" data-animation="fadeInUp">
+										<p class="thin grey">
+											Help People for their needs all over the world!
+										</p>
+									</div>
+									<div class="intro-layer topmargin_40" data-animation="fadeInUp">
+										<a asp-action="Careers" asp-controller="home" class="theme_button color1 wide_button">Donate</a>
+									</div>
+								</div>
+								<!-- eof .slide_description -->
+							</div>
+							<!-- eof .slide_description_wrapper -->
+						</div>
+						<!-- eof .col-* -->
+					</div>
+					<!-- eof .row -->
+				</div>
+				<!-- eof .container -->
+			</li>
+
+			<li>
+				<img src="~/assets/images/slide03.jpg" alt="">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12 text-center">
+							<div class="slide_description_wrapper">
+								<div class="slide_description">
+									<div class="intro-layer" data-animation="fadeInUp">
+										<h3 class="bold">
+											Save the Life
+										</h3>
+									</div>
+									<div class="intro-layer topmargin_30" data-animation="fadeInUp">
+										<p class="thin grey">
+											Help People for their needs all over the world!
+										</p>
+									</div>
+									<div class="intro-layer topmargin_40" data-animation="fadeInUp">
+										<a asp-action="Careers" asp-controller="home" class="theme_button color1 wide_button">Donate</a>
+									</div>
+								</div>
+								<!-- eof .slide_description -->
+							</div>
+							<!-- eof .slide_description_wrapper -->
+						</div>
+						<!-- eof .col-* -->
+					</div>
+					<!-- eof .row -->
+				</div>
+				<!-- eof .container -->
+			</li>
+
+		</ul>
+	</div>
+	<!-- eof flexslider -->
+</section>
+
+
+
+<section id="about" class="cs section_padding_0 columns_padding_0 columns_margin_0">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-md-4 col-sm-6 after_cover color_bg_1 light bg_teaser text-center">
+				<img src="~/assets/images/teaser01.jpg" alt="">
+				<div class="toppadding_60 bottompadding_60 inline-block text-left">
+					<h2 class="bold">.01 Donator</h2>
+					<a asp-action="Careers" asp-controller="home" class="theme_button inverse">Learn more</a>
+				</div>
+			</div>
+			<div class="col-md-4 col-sm-6 after_cover color_bg_1 medium bg_teaser text-center">
+				<img src="~/assets/images/teaser02.jpg" alt="">
+				<div class="toppadding_60 bottompadding_60 inline-block text-left">
+					<h2 class="bold">.02 Volunteer</h2>
+					<a asp-action="Careers" asp-controller="home" class="theme_button inverse">Learn more</a>
+				</div>
+			</div>
+			<div class="col-md-4 col-sm-12 after_cover color_bg_1 darken bg_teaser text-center">
+				<img src="~/assets/images/teaser03.jpg" alt="">
+				<div class="toppadding_60 bottompadding_60 inline-block text-left">
+					<h2 class="bold">.03 Adopter</h2>
+					<a asp-action="Careers" asp-controller="home" class="theme_button inverse">Learn more</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="ls ms section_padding_top_100 columns_margin_bottom_30">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<h2 class="section_header">
+					Become our organization
+					<span class="text-uppercase highlight">member</span> and help people for their needs
+				</h2>
+				<p class="bottommargin_30">
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+				</p>
+				<a asp-action="Careers" asp-controller="home" class="theme_button">Read more</a>
+			</div>
+			<div class="col-md-6 text-center text-md-right bottommargin_0">
+				<img src="~/assets/images/person.png" alt="" />
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="causes" class="ls section_padding_top_100 section_padding_bottom_75">
+	<div class="container">
+		
+		<div class="row">
+			<div class="col-sm-12 text-center">
+				<h2 class="section_header bold bottommargin_0">
+					Our
+					<span class="highlight">Our Programes</span>
+				</h2>
+			</div>
+		</div>
+		@foreach (var i in Model)
+		{
+		<div class="row columns_padding_50 columns_margin_bottom_40">
+			<div class="col-md-4 col-sm-6">
+				<article class="vertical-item text-center">
+					<div class="item-media round-media">
+						<img src="~/@i.img" alt="" />
+						
+					</div>
+					<div class="item-content">
+						<h4 class="text-uppercase bottommargin_20"><a asp-controller="Our_Programes">@i.opHeading</a></h4>
+
+
+							<a asp-action="Our_Programes" asp-controller="home" class="theme_button">Donate</a>
+							<a href="#" class="theme_button">Invite Friends</a>
+
+
+
+					</div>
+				</article>
+			</div>
+		
+		</div>
+		}
+	</div>
+	
+</section>
+
+<section class="ds page_video parallax section_padding_100 table_section table_section_md columns_padding_0 columns_margin_0">
+	<div class="container">
+		@foreach (var i in Model)
+					{
+		<div class="row">
+			
+			<div class="col-md-6 col-md-push-6">
+				<div class="embed-responsive embed-responsive-2by1 topmargin_20">
+					<a href="https://www.youtube.com/embed/xKxrkht7CpY" class="embed-placeholder">
+							<img src="~/@i.img" alt="">
+					</a>
+				</div>
+			</div>
+			<div class="col-md-6 col-md-pull-6">
+				<div class="with_padding_big with_border thick_border right-offset">
+					<h2 class="section_header">
+						<strong>@i.opHeading</strong>
+					</h2>
+					<p>@i.opDesc</p>
+					
+					<p class="inline-vertical-center">
+						
+						<a asp-action="Our_Programes" asp-controller="home" class="theme_button wide_button inverse2 margin_0">Donate</a>
+					</p>
+				</div>
+			</div>
+		</div>
+}
+</div>
+	
+</section>
+<section id="fetures" class="cs page_counters parallax section_padding_top_75 section_padding_bottom_50 columns_margin_bottom_30">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-4 text-center">
+				<div class="teaser media inline-block text-right">
+					<div class="media-body">
+						<h3 class="counter-wrap highlight" data-from="0" data-to="150" data-speed="1800">
+							.
+							<span class="counter" data-from="0" data-to="150" data-speed="1500">0</span>
+						</h3>
+						<h4 class="fontsize_18 text-uppercase">
+							Successful
+							<br> projects
+						</h4>
+					</div>
+					<div class="media-right big-padding">
+						<div class="teaser_icon highlight size_big">
+							<i class="fa fa-heart"></i>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4 text-center">
+				<div class="teaser media inline-block text-right">
+					<div class="media-body">
+						<h3 class="counter-wrap highlight" data-from="0" data-to="76" data-speed="1800">
+							.
+							<span class="counter" data-from="0" data-to="76" data-speed="1500">0</span>
+						</h3>
+						<h4 class="fontsize_18 text-uppercase">
+							Volunteer
+							<br> reached
+						</h4>
+					</div>
+					<div class="media-right big-padding">
+						<div class="teaser_icon highlight size_big">
+							<i class="fa fa-user-plus" aria-hidden="true"></i>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4 text-center">
+				<div class="teaser media inline-block text-right">
+					<div class="media-body">
+						<h3 class="counter-wrap highlight" data-from="0" data-to="134" data-speed="1800">
+							.
+							<span class="counter" data-from="0" data-to="134" data-speed="1500">0</span>
+						</h3>
+						<h4 class="fontsize_18 text-uppercase">
+							Children
+							<br> Adopted
+						</h4>
+					</div>
+					<div class="media-right big-padding">
+						<div class="teaser_icon highlight size_big">
+							<i class="fa fa-home" aria-hidden="true"></i>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+

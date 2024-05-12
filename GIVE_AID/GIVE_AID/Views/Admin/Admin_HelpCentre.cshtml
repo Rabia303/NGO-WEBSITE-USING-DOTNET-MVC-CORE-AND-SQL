@@ -1,0 +1,63 @@
+﻿@model HelpCentre
+@{
+    // ViewData["Title"] = "Admin_HelpCentre";
+    Layout = "~/Views/Shared/admin_layout.cshtml";
+}
+<section class="ls section_padding_top_50 section_padding_bottom_50 columns_padding_10">
+    <div class="container-fluid">
+        <section class="ls section_padding_top_50 section_padding_bottom_50 columns_padding_10">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h3>
+                            FAQ
+                        </h3>
+                    </div>
+                </div>
+                <!-- .row -->
+
+                <div class="row justify-content">
+                    <!-- Center the form -->
+                    <div class="col-xs-12 col-md-6">
+                        <!-- Basic form -->
+                        <div class="form-container ">
+                            <!-- Added a container for the form -->
+                            <form method="post" enctype="multipart/form-data">
+                                <!-- Form elements go here -->
+                                <div class="form-group">
+                                    <label for="category"><h5>Category:</h5></label>
+                                    <input type="text" asp-for="category" class="form-control" placeholder="Add Category">
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="description"><h5>Question:</h5></label>
+                                    <input type="text" asp-for="question" class="form-control" placeholder="Enter Question">
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="description"><h5>Answer:</h5></label>
+                                    <input type="text" asp-for="answer" class="form-control" placeholder="Enter Answer">
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="picture"><h5>Image:</h5></label>
+                                    <input type="file" name="img" class="form-control">
+                                    <!-- Image placeholder -->
+                                    <!-- <img src="placeholder.jpg" alt="Image" class="img-fluid"> -->
+                                </div>
+
+                                <button type="submit" class="theme_button">ADD</button>
+                            </form>
+                            <p>@ViewBag.e</p>
+                        </div>
+                    </div>
+                    <!-- .col-* -->
+                </div>
+                <!-- .row -->
+            </div>
+            <!-- .container-fluid -->
+        </section>
+    </div>
+</section>
+
+

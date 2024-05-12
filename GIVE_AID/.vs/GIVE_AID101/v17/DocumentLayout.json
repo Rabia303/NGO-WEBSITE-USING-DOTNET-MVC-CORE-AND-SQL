@@ -1,0 +1,1164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\fetchgallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\fetchgallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\admin_otherpartners.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\admin_otherpartners.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\editgallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\editgallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\home\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\home\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\models\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\models\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\admin_detailsofngo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\admin_detailsofngo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\oursupporters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\oursupporters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\admin_donateus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\admin_donateus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\admin_donationlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\admin_donationlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\fetchprogrammes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\fetchprogrammes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\admin_helpcentre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\admin_helpcentre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\models\\helpcentre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\models\\helpcentre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\fetch_help.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\fetch_help.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\edit_helpcenter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\edit_helpcenter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\admin_gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\admin_gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\edit_programmes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\edit_programmes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\admin_ourprogrames.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\admin_ourprogrames.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\causesmanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\causesmanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\models\\ourprograms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\models\\ourprograms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\edit_team.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\edit_team.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\fetchmission.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\fetchmission.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\editmission.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\editmission.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\cause_list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\cause_list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\fetchwwd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\fetchwwd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\editwwd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\editwwd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\models\\about_wwd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\models\\about_wwd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\models\\about_team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\models\\about_team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\shared\\admin_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\shared\\admin_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\home\\our_programes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\home\\our_programes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\home\\teams.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\home\\teams.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\models\\about1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\models\\about1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\models\\adddonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\models\\adddonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\models\\about_os.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\models\\about_os.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\about_insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\about_insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\ourmission.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\ourmission.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\home\\donationthanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\home\\donationthanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\admin_register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\admin_register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\home\\careers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\home\\careers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\admin_registerdmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\admin_registerdmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\admin_contactlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\admin_contactlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\models\\ngodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\models\\ngodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\home\\donate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\home\\donate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\models\\userreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\models\\userreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\home\\help_center.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\home\\help_center.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\home\\partners.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\home\\partners.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asp.APTECHNK1\\Downloads\\ngoweb9.0067\\ngoweb9.0067\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405105844_hhhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asp.APTECHNK1\\Downloads\\ngoweb9.0067\\ngoweb9.0067\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405105720_f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\models\\admin_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\models\\admin_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Downloads\\ngoweb9.00\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405184503_ghhhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Downloads\\ngoweb9.00\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405180043_fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Downloads\\ngoweb9.00\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405153203_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\listofngo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\listofngo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\models\\listofngo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\models\\listofngo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\models\\all_about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\models\\all_about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\views\\admin\\admin_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\views\\admin\\admin_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|c:\\users\\hp\\downloads\\final_give_aid\\give_aid\\give_aid\\migrations\\20240405110221_hhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD3889-5656-4D44-A21C-4A03F57E16CE}|GIVE_AID\\GIVE_AID.csproj|solutionrelative:give_aid\\migrations\\20240405110221_hhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin_OtherPartners.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Admin_OtherPartners.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\Admin_OtherPartners.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Admin_OtherPartners.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\Admin_OtherPartners.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:43.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Gallery.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\Gallery.cs",
+              "RelativeDocumentMoniker": "GIVE_AID\\Models\\Gallery.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\Gallery.cs",
+              "RelativeToolTip": "GIVE_AID\\Models\\Gallery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:34:43.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fetchgallery.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\fetchgallery.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\fetchgallery.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\fetchgallery.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\fetchgallery.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAA0wCYAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:43.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "GIVE_AID\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "GIVE_AID\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAADYBAAAAAAAAAAAAAEgBAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:34:43.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAKAAAAAAAAAAAAA1wLQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:43.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAALoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:43.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "editgallery.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\editgallery.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\editgallery.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\editgallery.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\editgallery.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:43.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Gallery.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\Gallery.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Home\\Gallery.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\Gallery.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Home\\Gallery.cshtml",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAFEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:43.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OurSupporters.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\OurSupporters.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\OurSupporters.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\OurSupporters.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\OurSupporters.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:43.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admin_DetailsofNGO.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Admin_DetailsofNGO.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\Admin_DetailsofNGO.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Admin_DetailsofNGO.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\Admin_DetailsofNGO.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:43.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Admin_DonationList.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Admin_DonationList.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\Admin_DonationList.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Admin_DonationList.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\Admin_DonationList.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:43.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Admin_Donateus.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Admin_Donateus.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\Admin_Donateus.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Admin_Donateus.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\Admin_Donateus.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:43.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "fetchprogrammes.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\fetchprogrammes.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\fetchprogrammes.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\fetchprogrammes.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\fetchprogrammes.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACQAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:43.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Admin_HelpCentre.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Admin_HelpCentre.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\Admin_HelpCentre.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Admin_HelpCentre.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\Admin_HelpCentre.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAADIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:43.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "fetch_help.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\fetch_help.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\fetch_help.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\fetch_help.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\fetch_help.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:43.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HelpCentre.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\HelpCentre.cs",
+              "RelativeDocumentMoniker": "GIVE_AID\\Models\\HelpCentre.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\HelpCentre.cs",
+              "RelativeToolTip": "GIVE_AID\\Models\\HelpCentre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:34:43.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "edit_helpcenter.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\edit_helpcenter.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\edit_helpcenter.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\edit_helpcenter.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\edit_helpcenter.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACEAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:43.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Admin_Gallery.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Admin_Gallery.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\Admin_Gallery.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Admin_Gallery.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\Admin_Gallery.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAC4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:43.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "edit_programmes.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\edit_programmes.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\edit_programmes.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\edit_programmes.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\edit_programmes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:43.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Admin_OurProgrames.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Admin_OurProgrames.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\Admin_OurProgrames.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Admin_OurProgrames.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\Admin_OurProgrames.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:43.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CausesManagement.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\CausesManagement.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\CausesManagement.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\CausesManagement.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\CausesManagement.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:43.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ourPrograms.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\ourPrograms.cs",
+              "RelativeDocumentMoniker": "GIVE_AID\\Models\\ourPrograms.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\ourPrograms.cs",
+              "RelativeToolTip": "GIVE_AID\\Models\\ourPrograms.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:34:43.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "edit_team.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\edit_team.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\edit_team.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\edit_team.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\edit_team.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:43.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "fetchmission.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\fetchmission.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\fetchmission.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\fetchmission.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\fetchmission.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:43.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "editmission.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\editmission.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\editmission.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\editmission.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\editmission.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB0AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "cause_list.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\cause_list.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\cause_list.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\cause_list.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\cause_list.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "fetchwwd.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\fetchwwd.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\fetchwwd.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\fetchwwd.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\fetchwwd.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "editwwd.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\editwwd.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\editwwd.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\editwwd.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\editwwd.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAB0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Program.cs",
+              "RelativeDocumentMoniker": "GIVE_AID\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Program.cs",
+              "RelativeToolTip": "GIVE_AID\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:34:44.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "about_wwd.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\about_wwd.cs",
+              "RelativeDocumentMoniker": "GIVE_AID\\Models\\about_wwd.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\about_wwd.cs",
+              "RelativeToolTip": "GIVE_AID\\Models\\about_wwd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:34:44.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GIVE_AID\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GIVE_AID\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAArwHcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:34:44.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAALsAAAAAAAAAAAAkwM0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "about_team.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\about_team.cs",
+              "RelativeDocumentMoniker": "GIVE_AID\\Models\\about_team.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\about_team.cs",
+              "RelativeToolTip": "GIVE_AID\\Models\\about_team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:34:44.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwCkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "admin_layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Shared\\admin_layout.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Shared\\admin_layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Shared\\admin_layout.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Shared\\admin_layout.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAkwH0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Our_Programes.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\Our_Programes.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Home\\Our_Programes.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\Our_Programes.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Home\\Our_Programes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Teams.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\Teams.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Home\\Teams.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\Teams.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Home\\Teams.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "team.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\team.cs",
+              "RelativeDocumentMoniker": "GIVE_AID\\Models\\team.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\team.cs",
+              "RelativeToolTip": "GIVE_AID\\Models\\team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:34:44.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "about1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\about1.cs",
+              "RelativeDocumentMoniker": "GIVE_AID\\Models\\about1.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\about1.cs",
+              "RelativeToolTip": "GIVE_AID\\Models\\about1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:34:44.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "About_Insert.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\About_Insert.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\About_Insert.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\About_Insert.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\About_Insert.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "about_os.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\about_os.cs",
+              "RelativeDocumentMoniker": "GIVE_AID\\Models\\about_os.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\about_os.cs",
+              "RelativeToolTip": "GIVE_AID\\Models\\about_os.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:34:44.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AddDonation.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\AddDonation.cs",
+              "RelativeDocumentMoniker": "GIVE_AID\\Models\\AddDonation.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\AddDonation.cs",
+              "RelativeToolTip": "GIVE_AID\\Models\\AddDonation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:34:44.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Ourmission.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Ourmission.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\Ourmission.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Ourmission.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\Ourmission.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "donationthanks.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\donationthanks.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Home\\donationthanks.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\donationthanks.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Home\\donationthanks.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA1wBIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Careers.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\Careers.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Home\\Careers.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\Careers.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Home\\Careers.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "admin_register.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\admin_register.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\admin_register.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\admin_register.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\admin_register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Admin_ContactList.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Admin_ContactList.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\Admin_ContactList.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Admin_ContactList.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\Admin_ContactList.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Admin_RegisterdMembers.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Admin_RegisterdMembers.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\Admin_RegisterdMembers.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Admin_RegisterdMembers.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\Admin_RegisterdMembers.cshtml",
+              "ViewState": "AQIAADsAAAAAAAAAAAA1wEQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ngoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\ngoDbContext.cs",
+              "RelativeDocumentMoniker": "GIVE_AID\\Models\\ngoDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\ngoDbContext.cs",
+              "RelativeToolTip": "GIVE_AID\\Models\\ngoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:34:44.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Donate.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\Donate.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Home\\Donate.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\Donate.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Home\\Donate.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAACkAAACeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UserReg.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\UserReg.cs",
+              "RelativeDocumentMoniker": "GIVE_AID\\Models\\UserReg.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\UserReg.cs",
+              "RelativeToolTip": "GIVE_AID\\Models\\UserReg.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:34:44.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Help_Center.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\Help_Center.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Home\\Help_Center.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\Help_Center.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Home\\Help_Center.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Partners.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\Partners.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Home\\Partners.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\Partners.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Home\\Partners.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20240405110221_hhh.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Migrations\\20240405110221_hhh.cs",
+              "RelativeDocumentMoniker": "GIVE_AID\\Migrations\\20240405110221_hhh.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Migrations\\20240405110221_hhh.cs",
+              "RelativeToolTip": "GIVE_AID\\Migrations\\20240405110221_hhh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:34:44.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20240405105844_hhhh.cs",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Downloads\\ngoweb9.0067\\ngoweb9.0067\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405105844_hhhh.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\asp.APTECHNK1\\Downloads\\ngoweb9.0067\\ngoweb9.0067\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405105844_hhhh.cs",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Downloads\\ngoweb9.0067\\ngoweb9.0067\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405105844_hhhh.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\asp.APTECHNK1\\Downloads\\ngoweb9.0067\\ngoweb9.0067\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405105844_hhhh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:58:44.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240405105720_f.cs",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Downloads\\ngoweb9.0067\\ngoweb9.0067\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405105720_f.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\asp.APTECHNK1\\Downloads\\ngoweb9.0067\\ngoweb9.0067\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405105720_f.cs",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Downloads\\ngoweb9.0067\\ngoweb9.0067\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405105720_f.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\asp.APTECHNK1\\Downloads\\ngoweb9.0067\\ngoweb9.0067\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405105720_f.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:57:21.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "donation.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\donation.cs",
+              "RelativeDocumentMoniker": "GIVE_AID\\Models\\donation.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\donation.cs",
+              "RelativeToolTip": "GIVE_AID\\Models\\donation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:34:44.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "contact.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\contact.cs",
+              "RelativeDocumentMoniker": "GIVE_AID\\Models\\contact.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\contact.cs",
+              "RelativeToolTip": "GIVE_AID\\Models\\contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:34:44.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "admin_register.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\admin_register.cs",
+              "RelativeDocumentMoniker": "GIVE_AID\\Models\\admin_register.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\admin_register.cs",
+              "RelativeToolTip": "GIVE_AID\\Models\\admin_register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:34:44.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "register.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\register.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Home\\register.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\register.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Home\\register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20240405184503_ghhhh.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ngoweb9.00\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405184503_ghhhh.cs",
+              "RelativeDocumentMoniker": "..\\..\\ngoweb9.00\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405184503_ghhhh.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ngoweb9.00\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405184503_ghhhh.cs",
+              "RelativeToolTip": "..\\..\\ngoweb9.00\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405184503_ghhhh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:45:04.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20240405180043_fourth.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ngoweb9.00\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405180043_fourth.cs",
+              "RelativeDocumentMoniker": "..\\..\\ngoweb9.00\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405180043_fourth.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ngoweb9.00\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405180043_fourth.cs",
+              "RelativeToolTip": "..\\..\\ngoweb9.00\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405180043_fourth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:00:43.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20240405153203_third.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ngoweb9.00\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405153203_third.cs",
+              "RelativeDocumentMoniker": "..\\..\\ngoweb9.00\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405153203_third.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ngoweb9.00\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405153203_third.cs",
+              "RelativeToolTip": "..\\..\\ngoweb9.00\\ngowebsession\\ngoweb1.176\\GIVE_AID101\\GIVE_AID\\Migrations\\20240405153203_third.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:32:03.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAAAHkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "GIVE_AID\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "GIVE_AID\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:34:44.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "listofngo.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\listofngo.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\listofngo.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\listofngo.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\listofngo.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "listofNGO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\listofNGO.cs",
+              "RelativeDocumentMoniker": "GIVE_AID\\Models\\listofNGO.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\listofNGO.cs",
+              "RelativeToolTip": "GIVE_AID\\Models\\listofNGO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:34:44.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Admin_Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Admin_Login.cshtml",
+              "RelativeDocumentMoniker": "GIVE_AID\\Views\\Admin\\Admin_Login.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Views\\Admin\\Admin_Login.cshtml",
+              "RelativeToolTip": "GIVE_AID\\Views\\Admin\\Admin_Login.cshtml",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAAH0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T07:34:44.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "all_about.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\all_about.cs",
+              "RelativeDocumentMoniker": "GIVE_AID\\Models\\all_about.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\FINAL_GIVE_AID\\GIVE_AID\\GIVE_AID\\Models\\all_about.cs",
+              "RelativeToolTip": "GIVE_AID\\Models\\all_about.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:34:44.538Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
