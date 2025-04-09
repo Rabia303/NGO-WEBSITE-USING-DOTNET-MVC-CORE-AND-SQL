@@ -13,24 +13,24 @@
 
 ### Admin Module
 
-- 💰 **Donation:** Manage donation categories.
-- 🤝 **Other Partners:** Display associated companies.
-- ℹ️ **About Us:** Manage organization information.
-- 📞 **Contact Us:** Manage contact details and queries.
-- 👥 **Registered Members:** View registered users.
-- 💸 **Donate Us Link:** Manage donation options.
-- 🌐 **Associated NGOs:** Manage NGO details.
-- 📅 **Our Programs:** Manage program details.
-- 💬 **Replying Queries:** Respond to user queries.
-- 🖼️ **Gallery Section:** Manage program images.
+- **Donation:** Manage donation categories.
+- **Other Partners:** Display associated companies.
+- **About Us:** Manage organization information.
+- **Contact Us:** Manage contact details and queries.
+- **Registered Members:** View registered users.
+- **Donate Us Link:** Manage donation options.
+- **Associated NGOs:** Manage NGO details.
+- **Our Programs:** Manage program details.
+- **Replying Queries:** Respond to user queries.
+- **Gallery Section:** Manage program images.
 
 ### User Module
 
-- 📝 **Registration:** Register accounts.
-- 💳 **Donation:** Donate to causes.
-- 📩 **Invitation:** Invite others to join.
-- ❓ **Query Submission:** Submit queries.
-- 🎉 **Program Participation:** Express interest in programs.
+- **Registration:** Register accounts.
+- **Donation:** Donate to causes.
+- **Invitation:** Invite others to join.
+- **Query Submission:** Submit queries.
+- **Program Participation:** Express interest in programs.
 
 ## 💻 Installation and Technologies
 
@@ -172,52 +172,52 @@ For any assistance or clarifications, feel free to reach out. Let's make this pr
 ## Roadmap
 ## 🔄 Roadmap
 
-### 🎨 Enhance User Interface
-- 🖼️ Improve overall design and layout
-- 🔄 Optimize for better usability and accessibility
+###  Enhance User Interface
+- Improve overall design and layout
+-  Optimize for better usability and accessibility
 
-### 🙋‍♂️ Add User Profiles
-- 📝 Allow users to create profiles
-- 🛠️ Enable profile customization and management
+###  Add User Profiles
+-  Allow users to create profiles
+-  Enable profile customization and management
 
-### 💰 Improve Donation Management System
-- 💳 Enhance donation process
-- 🔒 Implement secure payment gateways
+###  Improve Donation Management System
+-  Enhance donation process
+-  Implement secure payment gateways
 
-### 🚀 Expand Program Features
-- 📆 Introduce new program types
-- 📝 Allow users to sign up for programs directly through the website
+###  Expand Program Features
+-  Introduce new program types
+- Allow users to sign up for programs directly through the website
 
-### 📣 Implement Feedback System
-- 📝 Add a feedback mechanism for users to provide input
-- 🔄 Utilize feedback to enhance website functionality and user experience
+###  Implement Feedback System
+-  Add a feedback mechanism for users to provide input
+-  Utilize feedback to enhance website functionality and user experience
 
-### 🌐 Integrate Social Media Sharing
-- 📲 Enable users to share donation activities and program participation on social media platforms
+###  Integrate Social Media Sharing
+-  Enable users to share donation activities and program participation on social media platforms
 
-### 🖥️ Enhance Admin Dashboard
-- 📊 Improve admin interface for better content management
-- 📈 Add analytics and reporting features
+###  Enhance Admin Dashboard
+- Improve admin interface for better content management
+-  Add analytics and reporting features
 
-### 🚀 Optimize Performance and Security
-- 🚀 Implement measures to improve website performance
-- 🔒 Enhance security protocols to protect user data and transactions
+###  Optimize Performance and Security
+-  Implement measures to improve website performance
+-  Enhance security protocols to protect user data and transactions
 
-### 🌍 Localization and Internationalization
-- 🌐 Support multiple languages to reach a wider audience
-- 🌍 Adapt content and features to cater to different regions and cultures
+###  Localization and Internationalization
+- Support multiple languages to reach a wider audience
+- Adapt content and features to cater to different regions and cultures
 
-### 🔍 Continuous Testing and Bug Fixes
-- 🔍 Conduct regular testing to identify and fix bugs
-- 🚀 Ensure smooth functioning of the website at all times
+###  Continuous Testing and Bug Fixes
+- Conduct regular testing to identify and fix bugs
+-  Ensure smooth functioning of the website at all times
 
 ## Other Common GitHub Profile Sections
 
-👩‍💻 Currently working on: Angular Projects
+ Currently working on: Angular Projects
 
-🧠 Currently learning: Angular
+ Currently learning: Angular
 
-📫 How to reach me: [rabiaimtiaz203@gmail.com](mailto:rabiaimtiaz203@gmail.com)
+ How to reach me: [rabiaimtiaz203@gmail.com](mailto:rabiaimtiaz203@gmail.com)
 
 ⚡️ Fun fact: I study computer science
 
